@@ -1,0 +1,39 @@
+body{
+    background-color: blue;
+}
+
+.fl{
+    background-image:url(../img/backg.jpg);
+    color: gold;
+    height: 500px;  
+    background-attachment: fixed;
+}
+
+.header ul .right{
+    float: right;
+    padding: 14px 16px;
+}
+.header .left{
+    float: left;
+    padding: 14px 16px;
+}
+.header ul  {
+    list-style-type: none;
+}
+.subheader{
+    text-align: center;
+}
+.subheader h1{
+
+}
+.bungkus{
+    background-color: #ffffff;
+}
+#Ipsum {
+    text-align: center;
+}
+
+.col-sm-3 {
+    padding: 10px 10px;
+}
+
