@@ -1,0 +1,68 @@
+.jumbotron {
+    background-color: #6f00ff;
+}
+
+.jumbotron h1 {
+    color: white;
+}
+
+.jumbotron p {
+    color: white;
+}
+
+.container .card-deck #border1 {
+    border-color: skyblue;
+    background: transparent;
+    height: 325px;
+}
+
+.container .card-deck h5 {
+    color: white;
+
+}
+
+.container .card-deck .card #naruto {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.container .card-deck #border2 {
+    border-color: skyblue;
+    background: transparent;
+    height: 325px;
+}
+
+.container .card-deck .card #sasuke {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 19px;
+}
+
+.container .card-deck #border3 {
+    border-color: skyblue;
+    background: transparent;
+    height: 325px;
+}
+
+.container .card-deck .card #sakura {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.container .card-deck #border4 {
+    border-color: skyblue;
+    background: transparent;
+    height: 325px;
+}
+
+.container .card-deck .card #kakashi {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
