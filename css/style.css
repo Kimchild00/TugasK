@@ -1,0 +1,22 @@
+.pembungkus{
+    background-image: url(../img/s.jpg);
+    height: 500px;
+    color: gold;
+    background-attachment: fixed;
+}
+
+.pembungkus .UL {
+    list-style-type: none;
+}
+
+.pembungkus .UL .left{
+    float: left;
+    margin-top: 25px;
+}
+
+.pembungkus .UL .right{
+    float: right;
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
